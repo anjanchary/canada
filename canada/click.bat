@@ -1,0 +1,1 @@
+mvn -f E:\vinay\library\canada\pom.xml

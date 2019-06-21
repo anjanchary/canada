@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="you">
+		<test name="not1">
+				<classes>
+						<class name="rome.NewTest"></class>
+				</classes>
+		</test>
+</suite>
